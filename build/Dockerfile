@@ -5,6 +5,7 @@ COPY requirements/requirements-common.txt /code/
 COPY requirements/requirements-codeserver.txt /code/
 RUN pip install -r requirements-common.txt
 RUN pip install -r requirements-codeserver.txt
+RUN pip install psycopg2
 COPY . /code/
 
 #RUN python manage.py makemigrations yaksh
