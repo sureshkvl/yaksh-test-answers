@@ -1,0 +1,817 @@
+---
+summary: |-
+  Q20. solve it
+type: |-
+  mcq
+language: |-
+  python
+description: |-
+  The organisers of an essay competition decide that a winner in the
+  competition gets a prize of Rs 100 and a participant who does not win gets
+  a prize of Rs 25. The total prize money distributed is Rs 3,000. Find the
+  number of winners, if the total number of participants is 63.
+testcase:
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    17
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    19
+  correct: true
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    21
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    23
+  correct: false
+active: true
+files: []
+grade_assignment_upload: false
+min_time: 0
+partial_grading: false
+snippet: ''
+solution: |-
+  <img src="https://raw.githubusercontent.com/sureshkvl/yaksh-test-answers/master/answers/class8/maths/linear_equations/Q20.jpg" alt="Q20" >
+tags:
+- cbse8_maths
+- linear_equation
+- ncert_exercises
+- exercise2.2
+- application
+- q20
+---
+
+
+
+
+
+
+
+
+
+
+summary: |-
+  Q21. solve it
+type: |-
+  mcq
+language: |-
+  python
+description: |-
+  I have a total of Rs 300 in coins of denomination Rs 1, Rs 2 and Rs 5. The
+  number of Rs 2 coins is 3 times the number of Rs 5 coins. The total number of
+  coins is 160. How many coins of each denomination are with me?
+testcase:
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    1Rs coin 80, 2Rs coin 60 and 5Rs coin 20.
+  correct: true
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    1Rs coin 100, 2Rs coin 60 and 5Rs coin 30.
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    1Rs coin 90, 2Rs coin 60 and 5Rs coin 20.
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    1Rs coin 70, 2Rs coin 70 and 5Rs coin 20.
+  correct: false
+active: true
+files: []
+grade_assignment_upload: false
+min_time: 0
+partial_grading: false
+snippet: ''
+solution: |-
+  <img src="https://raw.githubusercontent.com/sureshkvl/yaksh-test-answers/master/answers/class8/maths/linear_equations/Q21.jpg" alt="Q21" >
+tags:
+- cbse8_maths
+- linear_equation
+- ncert_exercises
+- exercise2.2
+- application
+- q21
+---
+
+
+
+
+
+
+summary: |-
+  Q22. solve it
+type: |-
+  mcq
+language: |-
+  python
+description: |-
+  Lakshmi is a cashier in a bank. She has currency notes of denominations
+  Rs 100, Rs 50 and Rs 10, respectively. The ratio of the number of these
+  notes is 2:3:5. The total cash with Lakshmi is Rs 4,00,000. How many
+  notes of each denomination does she have?
+testcase:
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    Rs100 notes 2000 , Rs50 notes 3000, and Rs10 notes 4000
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    Rs100 notes 1800 , Rs50 notes 3200, and Rs10 notes 6000
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    Rs100 notes 2000 , Rs50 notes 3000, and Rs10 notes 5000
+  correct: true
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    Rs100 notes 5000 , Rs50 notes 3000, and Rs10 notes 4000
+  correct: false
+active: true
+files: []
+grade_assignment_upload: false
+min_time: 0
+partial_grading: false
+snippet: ''
+solution: |-
+  <img src="https://raw.githubusercontent.com/sureshkvl/yaksh-test-answers/master/answers/class8/maths/linear_equations/Q22.jpg" alt="Q22" >
+tags:
+- cbse8_maths
+- linear_equation
+- ncert_exercises
+- exercise2.2
+- application
+- q22
+---
+
+
+
+summary: |-
+  Q23. solve it
+type: |-
+  mcq
+language: |-
+  python
+description: |-
+  A rational number is such that when you multiply it by 5/2 and add 2/3
+  to the product, you get -7/12 . What is the number?
+testcase:
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    1/3
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    1/4
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    1/5
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    1/2
+  correct: true
+active: true
+files: []
+grade_assignment_upload: false
+min_time: 0
+partial_grading: false
+snippet: ''
+solution: |-
+  <img src="https://raw.githubusercontent.com/sureshkvl/yaksh-test-answers/master/answers/class8/maths/linear_equations/Q23.jpg" alt="Q23" >
+tags:
+- cbse8_maths
+- linear_equation
+- ncert_exercises
+- exercise2.2
+- application
+- q23
+---
+
+
+
+
+
+
+
+summary: |-
+  Q24. solve it
+type: |-
+  mcq
+language: |-
+  python
+description: |-
+  Fifteen years from now Ravi’s age will be four times his present age. What is Ravi’s
+  present age?
+testcase:
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    4
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    5
+  correct: true
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    6
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    7
+  correct: false
+active: true
+files: []
+grade_assignment_upload: false
+min_time: 0
+partial_grading: false
+snippet: ''
+solution: |-
+  <img src="https://raw.githubusercontent.com/sureshkvl/yaksh-test-answers/master/answers/class8/maths/linear_equations/Q24.jpg" alt="Q24" >
+tags:
+- cbse8_maths
+- linear_equation
+- ncert_exercises
+- exercise2.2
+- application
+- q24
+---
+
+
+
+
+
+
+summary: |-
+  Q25. solve it
+type: |-
+  mcq
+language: |-
+  python
+description: |-
+  Baichung’s father is 26 years younger than Baichung’s grandfather and 29 years
+  older than Baichung. The sum of the ages of all the three is 135 years. What is the
+  age of each one of them??
+testcase:
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    17,46 and 72 years
+  correct: true
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    20, 50 and 82 years
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    18, 46 and 72 years
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    21, 46 and 74 years
+  correct: false
+active: true
+files: []
+grade_assignment_upload: false
+min_time: 0
+partial_grading: false
+snippet: ''
+solution: |-
+  <img src="https://raw.githubusercontent.com/sureshkvl/yaksh-test-answers/master/answers/class8/maths/linear_equations/Q25.jpg" alt="Q25" >
+tags:
+- cbse8_maths
+- linear_equation
+- ncert_exercises
+- exercise2.2
+- application
+- q25
+---
+
+
+
+
+
+summary: |-
+  Q26. solve it
+type: |-
+  mcq
+language: |-
+  python
+description: |-
+  The number of boys and girls in a class are in the ratio 7:5. The number of boys is 8
+  more than the number of girls. What is the total class strength?
+testcase:
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    48
+  correct: true
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    58
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    65
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    40
+  correct: false
+active: true
+files: []
+grade_assignment_upload: false
+min_time: 0
+partial_grading: false
+snippet: ''
+solution: |-
+  <img src="https://raw.githubusercontent.com/sureshkvl/yaksh-test-answers/master/answers/class8/maths/linear_equations/Q26.jpg" alt="Q26" >
+tags:
+- cbse8_maths
+- linear_equation
+- ncert_exercises
+- exercise2.2
+- application
+- q26
+---
+
+
+
+summary: |-
+  Q27. solve it
+type: |-
+  mcq
+language: |-
+  python
+description: |-
+  The ages of Rahul and Haroon are in the ratio 5:7. Four years later the sum of their  
+  ages will be 56 years. What are their present ages?
+testcase:
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    21 and 29 years
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    20 and 28 years
+  correct: true
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    30 and 38 years
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    25 and 33 years
+  correct: false
+active: true
+files: []
+grade_assignment_upload: false
+min_time: 0
+partial_grading: false
+snippet: ''
+solution: |-
+  <img src="https://raw.githubusercontent.com/sureshkvl/yaksh-test-answers/master/answers/class8/maths/linear_equations/Q27.jpg" alt="Q27" >
+tags:
+- cbse8_maths
+- linear_equation
+- ncert_exercises
+- exercise2.2
+- application
+- q27
+---
+
+
+
+
+
+
+summary: |-
+  Q28. solve it
+type: |-
+  mcq
+language: |-
+  python
+description: |-
+  Three consecutive integers are such that when they are taken in increasing order and
+  multiplied by 2, 3 and 4 respectively, they add up to 74. Find these numbers.  
+testcase:
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    7,8 and 9
+  correct: true
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    10,11 and 12
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    8,9 and 10
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    11,12 and 13
+  correct: false
+active: true
+files: []
+grade_assignment_upload: false
+min_time: 0
+partial_grading: false
+snippet: ''
+solution: |-
+  <img src="https://raw.githubusercontent.com/sureshkvl/yaksh-test-answers/master/answers/class8/maths/linear_equations/Q28.jpg" alt="Q28" >
+tags:
+- cbse8_maths
+- linear_equation
+- ncert_exercises
+- exercise2.2
+- application
+- q28
+---
+
+
+
+
+
+summary: |-
+  Q29. solve it
+type: |-
+  mcq
+language: |-
+  python
+description: |-
+  The sum of three consecutive multiples of 8 is 888. Find the multiples.
+testcase:
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    80, 88 and 96
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    288, 296 and 304
+  correct: true
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    304, 312 and 320
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    280, 288 and 296
+  correct: false
+active: true
+files: []
+grade_assignment_upload: false
+min_time: 0
+partial_grading: false
+snippet: ''
+solution: |-
+  <img src="https://raw.githubusercontent.com/sureshkvl/yaksh-test-answers/master/answers/class8/maths/linear_equations/Q29.jpg" alt="Q29" >
+tags:
+- cbse8_maths
+- linear_equation
+- ncert_exercises
+- exercise2.2
+- application
+- q29
+---
+
+
+
+
+
+
+summary: |-
+  Q30. solve it
+type: |-
+  mcq
+language: |-
+  python
+description: |-
+  Three consecutive integers add up to 51. What are these integers?
+testcase:
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    16,17 and 18
+  correct: true
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    21,22 and 23
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    31,32 and 33
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    33,34 and 35
+  correct: false
+active: true
+files: []
+grade_assignment_upload: false
+min_time: 0
+partial_grading: false
+snippet: ''
+solution: |-
+  <img src="https://raw.githubusercontent.com/sureshkvl/yaksh-test-answers/master/answers/class8/maths/linear_equations/Q30.jpg" alt="Q30" >
+tags:
+- cbse8_maths
+- linear_equation
+- ncert_exercises
+- exercise2.2
+- application
+- q30
+---
+
+
+
+summary: |-
+  Q31. solve it
+type: |-
+  mcq
+language: |-
+  python
+description: |-
+  Two numbers are in the ratio 5:3. If they differ by 18, what are the numbers?
+testcase:
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    45 and 27
+  correct: true
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    40 and 24
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    35 and 21
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    50 and 30
+  correct: false
+active: true
+files: []
+grade_assignment_upload: false
+min_time: 0
+partial_grading: false
+snippet: ''
+solution: |-
+  <img src="https://raw.githubusercontent.com/sureshkvl/yaksh-test-answers/master/answers/class8/maths/linear_equations/Q31.jpg" alt="Q31" >
+tags:
+- cbse8_maths
+- linear_equation
+- ncert_exercises
+- exercise2.2
+- application
+- q31
+---
+
+
+
+
+summary: |-
+  Q32. solve it
+type: |-
+  mcq
+language: |-
+  python
+description: |-
+  Sum of two numbers is 95. If one exceeds the other by 15, find the numbers.
+testcase:
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    40 and 55
+  correct: true
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    45 and 55
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    50 and 55
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    30 and 35
+  correct: false
+active: true
+files: []
+grade_assignment_upload: false
+min_time: 0
+partial_grading: false
+snippet: ''
+solution: |-
+  <img src="https://raw.githubusercontent.com/sureshkvl/yaksh-test-answers/master/answers/class8/maths/linear_equations/Q32.jpg" alt="Q32" >
+tags:
+- cbse8_maths
+- linear_equation
+- ncert_exercises
+- exercise2.2
+- application
+- q32
+---
+
+
+
+
+summary: |-
+  Q33. solve it
+type: |-
+  mcq
+language: |-
+  python
+description: |-
+  The base of an isosceles triangle is 4/3 cm. The perimeter of the triangle is 
+  4 2/5 cm, What is the length of either of the remaining equal sides?
+testcase:
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    1 3/5cm
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    1 4/5cm
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    1 2/5cm
+  correct: true
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    1 1/5cm
+  correct: false
+active: true
+files: []
+grade_assignment_upload: false
+min_time: 0
+partial_grading: false
+snippet: ''
+solution: |-
+  <img src="https://raw.githubusercontent.com/sureshkvl/yaksh-test-answers/master/answers/class8/maths/linear_equations/Q33.jpg" alt="Q33" >
+tags:
+- cbse8_maths
+- linear_equation
+- ncert_exercises
+- exercise2.2
+- application
+- q33
+---
+
+
+summary: |-
+  Q34. solve it
+type: |-
+  mcq
+language: |-
+  python
+description: |-
+  The perimeter of a rectangular swimming pool is 154 m. Its length is 2 m more than
+  twice its breadth. What are the length and the breadth of the pool?
+testcase:
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    52m and 28m
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    28m and 52m
+  correct: true
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    18m and 36m
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    36 and 18m
+  correct: false
+active: true
+files: []
+grade_assignment_upload: false
+min_time: 0
+partial_grading: false
+snippet: ''
+solution: |-
+  <img src="https://raw.githubusercontent.com/sureshkvl/yaksh-test-answers/master/answers/class8/maths/linear_equations/Q34.jpg" alt="Q34" >
+tags:
+- cbse8_maths
+- linear_equation
+- ncert_exercises
+- exercise2.2
+- application
+- q34
+---
+
+
+
+
+
+
+summary: |-
+  Q35. solve it
+type: |-
+  mcq
+language: |-
+  python
+description: |-
+  If you subtract 1/2 from a number and multiply the result by 1/2,
+  you get 1/8. What is the number?
+testcase:
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    2/3
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    3/4    
+  correct: true
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    4/5
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    2/5
+  correct: false
+active: true
+files: []
+grade_assignment_upload: false
+min_time: 0
+partial_grading: false
+snippet: ''
+solution: |-
+  <img src="https://raw.githubusercontent.com/sureshkvl/yaksh-test-answers/master/answers/class8/maths/linear_equations/Q35.jpg" alt="Q35" >
+tags:
+- cbse8_maths
+- linear_equation
+- ncert_exercises
+- exercise2.2
+- application
+- q35
+---
+
+

@@ -1,0 +1,520 @@
+---
+summary: |-
+  Q36. solve it
+type: |-
+  mcq
+language: |-
+  python
+description: |-
+  Aman’s age is three times his son’s age. Ten years ago he was five times his son’s
+  age. Find their present ages.
+testcase:
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    aman age 60 years, aman's son age 25 years
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    aman age 60 years, aman's son age 20 years
+  correct: true
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    aman age 60 years, aman's son age 30 years
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    aman age 50 years, aman's son age 20 years
+  correct: false
+active: true
+files: []
+grade_assignment_upload: false
+min_time: 0
+partial_grading: false
+snippet: ''
+solution: |-
+  <img src="https://raw.githubusercontent.com/sureshkvl/yaksh-test-answers/master/answers/class8/maths/linear_equations/Q36.jpg" alt="Q36" >
+tags:
+- cbse8_maths
+- linear_equation
+- ncert_exercises
+- exercise2.4
+- application
+- q36
+---
+
+
+
+
+
+
+summary: |-
+  Q37. solve it
+type: |-
+  mcq
+language: |-
+  python
+description: |-
+  A grandfather is ten times older than his granddaughter.
+  He is also 54 years older than her. Find their present ages.
+testcase:
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    6 and 60 years
+  correct: true
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    7 and 70 years
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    5 and 50 years
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    8 and 80 years
+  correct: false
+active: true
+files: []
+grade_assignment_upload: false
+min_time: 0
+partial_grading: false
+snippet: ''
+solution: |-
+  <img src="https://raw.githubusercontent.com/sureshkvl/yaksh-test-answers/master/answers/class8/maths/linear_equations/Q37.jpg" alt="Q37" >
+tags:
+- cbse8_maths
+- linear_equation
+- ncert_exercises
+- exercise2.4
+- application
+- q37
+---
+
+
+
+
+summary: |-
+  Q38. solve it
+type: |-
+  mcq
+language: |-
+  python
+description: |-
+  Half of a herd of deer are grazing in the field and three fourths of the remaining are playing nearby. The rest 9
+  are drinking water from the pond. Find the number of deer in the herd
+testcase:
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    72
+  correct: true
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    80
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    70
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    74
+  correct: false
+active: true
+files: []
+grade_assignment_upload: false
+min_time: 0
+partial_grading: false
+snippet: ''
+solution: |-
+  <img src="https://raw.githubusercontent.com/sureshkvl/yaksh-test-answers/master/answers/class8/maths/linear_equations/Q38.jpg" alt="Q38" >
+tags:
+- cbse8_maths
+- linear_equation
+- ncert_exercises
+- exercise2.4
+- application
+- q38
+---
+
+
+
+
+
+summary: |-
+  Q39. solve it
+type: |-
+  mcq
+language: |-
+  python
+description: |-
+  Hasan buys two kinds of cloth materials for school uniforms, shirt material that
+  costs him Rs 50 per metre and trouser material that costs him Rs 90 per metre.
+  For every 3 meters of the shirt material he buys 2 metres of the trouser material. He sells the materials at 12%
+  and 10% profit respectively. His total sale is Rs 36,600. How much trouser material did he buy?  
+testcase:
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    100m
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    150m
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    200m
+  correct: true
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    250m
+  correct: false
+active: true
+files: []
+grade_assignment_upload: false
+min_time: 0
+partial_grading: false
+snippet: ''
+solution: |-
+  <img src="https://raw.githubusercontent.com/sureshkvl/yaksh-test-answers/master/answers/class8/maths/linear_equations/Q39.jpg" alt="Q39" >
+tags:
+- cbse8_maths
+- linear_equation
+- ncert_exercises
+- exercise2.4
+- application
+- q39
+---
+
+
+
+
+
+summary: |-
+  Q40. solve it
+type: |-
+  mcq
+language: |-
+  python
+description: |-
+  There is a narrow rectangular plot, reserved for a school, in Mahuli village. TheThere is a narrow rectangular plot, reserved for a school, in Mahuli village. The
+  length and breadth of the plot are in the ratio 11:4. At the rate Rs 100 per metre it will
+  cost the village panchayat Rs 75000 to fence the plot. What are the dimensions of
+  the plot? 
+testcase:
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    275m and 100m
+  correct: true
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    200m and 175m
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    375m and 100m
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    250m and 250m
+  correct: false
+active: true
+files: []
+grade_assignment_upload: false
+min_time: 0
+partial_grading: false
+snippet: ''
+solution: |-
+  <img src="https://raw.githubusercontent.com/sureshkvl/yaksh-test-answers/master/answers/class8/maths/linear_equations/Q40.jpg" alt="Q40" >
+tags:
+- cbse8_maths
+- linear_equation
+- ncert_exercises
+- exercise2.4
+- application
+- q40
+---
+
+
+
+summary: |-
+  Q41. solve it
+type: |-
+  mcq
+language: |-
+  python
+description: |-
+  Shobo’s mother’s present age is six times Shobo’s present age. Shobo’s age five
+  years from now will be one third of his mother’s present age. What are their
+  present ages?  
+testcase:
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    5 and 30 years
+  correct: true
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    6 and 36 years
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    7 and 42 years
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    5 and 35 years
+  correct: false
+active: true
+files: []
+grade_assignment_upload: false
+min_time: 0
+partial_grading: false
+snippet: ''
+solution: |-
+  <img src="https://raw.githubusercontent.com/sureshkvl/yaksh-test-answers/master/answers/class8/maths/linear_equations/Q41.jpg" alt="Q41" >
+tags:
+- cbse8_maths
+- linear_equation
+- ncert_exercises
+- exercise2.4
+- application
+- q41
+---
+
+
+
+
+summary: |-
+  Q42. solve it
+type: |-
+  mcq
+language: |-
+  python
+description: |-
+  One of the two digits of a two digit number is three times the other digit. If you
+  interchange the digits of this two-digit number and add the resulting number to the
+  original number, you get 88. What is the original number?  
+testcase:
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    26
+  correct: true
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    52
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    48
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    18
+  correct: false
+active: true
+files: []
+grade_assignment_upload: false
+min_time: 0
+partial_grading: false
+snippet: ''
+solution: |-
+  <img src="https://raw.githubusercontent.com/sureshkvl/yaksh-test-answers/master/answers/class8/maths/linear_equations/Q42.jpg" alt="Q42" >
+tags:
+- cbse8_maths
+- linear_equation
+- ncert_exercises
+- exercise2.4
+- application
+- q42
+---
+
+
+
+
+summary: |-
+  Q43. solve it
+type: |-
+  mcq
+language: |-
+  python
+description: |-
+  Sum of the digits of a two-digit number is 9. When we interchange the digits, it is
+  found that the resulting new number is greater than the original number by 27. What
+  is the two-digit number?  
+testcase:
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    35
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    45
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    36
+  correct: true
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    46
+  correct: false
+active: true
+files: []
+grade_assignment_upload: false
+min_time: 0
+partial_grading: false
+snippet: ''
+solution: |-
+  <img src="https://raw.githubusercontent.com/sureshkvl/yaksh-test-answers/master/answers/class8/maths/linear_equations/Q43.jpg" alt="Q43" >
+tags:
+- cbse8_maths
+- linear_equation
+- ncert_exercises
+- exercise2.4
+- application
+- q43
+---
+
+
+
+
+
+
+summary: |-
+  Q44. solve it
+type: |-
+  mcq
+language: |-
+  python
+description: |-
+  A positive number is 5 times another number. If 21 is added to both the numbers,
+  then one of the new numbers becomes twice the other new number. What are the
+  numbers?  
+testcase:
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    7 and 35
+  correct: true
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    6 and 38
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    5 and 8
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    9 and 8
+  correct: false
+active: true
+files: []
+grade_assignment_upload: false
+min_time: 0
+partial_grading: false
+snippet: ''
+solution: |-
+  <img src="https://raw.githubusercontent.com/sureshkvl/yaksh-test-answers/master/answers/class8/maths/linear_equations/Q44.jpg" alt="Q44" >
+tags:
+- cbse8_maths
+- linear_equation
+- ncert_exercises
+- exercise2.4
+- application
+- q44
+---
+
+
+
+
+
+
+
+summary: |-
+  Q45. solve it
+type: |-
+  mcq
+language: |-
+  python
+description: |-
+  Amina thinks of a number and substracts 5/2 from it. She multiplies the result by 8. The
+  result now obtained is 3 times the same number she thought of. What is the number?
+points: 1.0
+testcase:
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    5
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    4
+  correct: true
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    7
+  correct: false
+- test_case_type: |-
+    mcqtestcase
+  options: |-
+    8
+  correct: false
+active: true
+files: []
+grade_assignment_upload: false
+min_time: 0
+partial_grading: false
+snippet: ''
+solution: |-
+  <img src="https://raw.githubusercontent.com/sureshkvl/yaksh-test-answers/master/answers/class8/maths/linear_equations/Q45.jpg" alt="Q45" >
+tags:
+- cbse8_maths
+- linear_equation
+- ncert_exercises
+- exercise2.4
+- application
+- q45
+---
+
+
+
+
+
+
