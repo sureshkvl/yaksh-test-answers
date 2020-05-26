@@ -69,7 +69,8 @@ sudo docker-compose up -d
 sudo docker exec -it online_test-0201_web_1 bash
 python manage.py makemigrations yaksh
 python manage.py migrate
-python manage.py createsuperuser
+python manage.py loaddata demo_fixtures.json
+#python manage.py createsuperuser
 ```
 
 6. open the browser
