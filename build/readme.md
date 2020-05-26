@@ -80,7 +80,8 @@ sudo docker-compose up -d
 
 ```
 sudo docker exec -it online_test-0201_web_1 bash
-python manage.py makemigrations yaksh
+python manage.py makemigrations 
+python manage.py makemigrations notifications_plugin
 python manage.py migrate
 python manage.py loaddata demo_fixtures.json
 ```
