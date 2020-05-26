@@ -10,4 +10,5 @@ COPY . /code/
 
 #RUN python manage.py makemigrations yaksh
 #RUN python manage.py migrate yaksh
+#RUN python manage.py loaddata demo_fixtures.json
 #CMD python manage.py runserver 0.0.0.0:8080

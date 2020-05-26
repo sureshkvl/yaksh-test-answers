@@ -1,4 +1,4 @@
-## How to build
+## How to build the docker image
 
 
 1. Download yaksh code
@@ -49,30 +49,45 @@ DATABASES = {
 
 (or)
 
-copy the settings file
+copy the settings file from this folder
+
+
+5.  build and push the image
+
+```
+sudo make build
+sudo make push
 
 ```
 
+## How to deploy 
+
+1. create a folder 
+
 ```
+mkdir yaksh
+cd yaksh
+``` 
 
-
-4. run the docker-compose file
+2. run the docker-compose file from this folder
 
 ```
 sudo docker-compose up -d
 ```
 
 
-5. login the dijango web and run the below commands
+3. login the dijango web container and run the below commands
 
 ```
 sudo docker exec -it online_test-0201_web_1 bash
 python manage.py makemigrations yaksh
 python manage.py migrate
 python manage.py loaddata demo_fixtures.json
-#python manage.py createsuperuser
 ```
 
-6. open the browser
+default users (admin/admin, teacher/teacher, student/student) are created
+
+4. open the browser
 
 http://localhost:8080
+
