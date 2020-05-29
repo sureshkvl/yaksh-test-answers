@@ -1,0 +1,215 @@
+CBSE Maths - Class 8
+Unit3 :  Understanding Quadrilaterals
+topic:
+3.1 Introduction
+3.2 Polygons
+3.3 Sum of the Measures of the Exterior Angles of a Polygon (Sum Polygon)
+3.4 Kinds of Quadrilaterals
+3.5 Some Special Parallelograms
+
+
+
+
+Examples:
+==========
+
+Q1)
+
+Find measure x in Fig 
+
+
+
+(a) 100
+(b) 90
+(c) 110
+(d) 120
+
+Ans: 110°
+
+topic: Sum Polygon,  difficulty: easy  
+
+
+
+Q2)
+Find the number of sides of a regular polygon whose each exterior angle
+has a measure of 45°
+
+(a) 6
+(b) 8
+(c) 4
+(d) 7
+
+Ans: 8
+
+topic: Sum Polygon,  difficulty: easy   type: 
+
+
+
+
+
+Q3)
+Find the perimeter of the parallelogram PQRS .
+
+(a) 36
+(b) 38
+(c) 34
+(d) 37
+
+Ans: 38cm
+
+topic: Kinds of Quadrilaterals,  difficulty: easy   type: 
+
+
+
+
+
+Q4)
+In Fig , BEST is a parallelogram. Find the values x, y and z.
+
+(a) x=100°,y=120°,z=80°
+(b) x=120°,y=100°,z=80°
+(c) x=80°,y=100°,z=80°
+(d) x=100°,y=100°,z=80°
+
+Ans: x=100°,y=100°,z=80°
+
+topic: Kinds of Quadrilaterals,  difficulty: easy   type: 
+
+
+
+
+
+
+Q5)
+In a parallelogram RING, (Fig 3.28) if m∠R = 70°, find all the other angles.
+
+
+
+Ans: m∠N = 70°, m∠I = 110°, m∠G = 110°
+
+topic: Kinds of Quadrilaterals,  difficulty: easy   type: 
+
+
+
+
+
+
+
+Q6)
+In Fig 3.31 HELP is a parallelogram. (Lengths are in cms). Given that
+OE = 4 and HL is 5 more than PE? Find OH.
+
+
+
+Ans: 6.5cms
+
+topic: Kinds of Quadrilaterals,  difficulty: easy   type: 
+
+
+
+
+
+Q7)
+RICE is a rhombus (Fig 3.36). Find x, y, z. Justify your findings.
+
+
+
+Ans: x= 5,y=12 ,z=13
+
+topic: Special Parallelograms,  difficulty: easy   type: 
+
+
+
+
+Q8)
+RENT is a rectangle (Fig 3.41). Its diagonals meet at O. Find x, if
+OR = 2x + 4 and OT = 3x + 1.
+
+
+
+Ans: x=3
+
+topic: Special Parallelograms,  difficulty: easy   type: 
+
+
+
+
+
+
+
+
+Exercises:
+==========
+
+Exercise 3.1
+
+
+Q9a
+
+Classify each of them on the basis of the following
+
+(a) Simple curve
+(b) Simple closed curve
+(c) Polygon
+(d) Convex polygon
+(e) Concave polygon
+
+Ans: 
+
+topic: Polygons,  difficulty: easy   type: 
+
+
+Q9b, Q9c, Q9d, Q9e...
+
+
+
+Q10a
+
+How many diagonals does each of the following have?
+A convex quadrilateral
+
+
+Ans: 
+topic: Polygons,  difficulty: easy   type: 
+
+
+
+
+Q10b
+
+How many diagonals does each of the following have?
+A regular hexagon
+
+
+Ans: 
+
+
+
+Q10c
+
+How many diagonals does each of the following have?
+A triangle
+
+
+Ans: 
+
+
+
+
+Q12
+
+Examine the table. (Each figure is divided into triangles and the sum of the angles
+deduced from that.)
+
+What can you say about the angle sum of a convex polygon with number of sides?
+(a) 7
+(b) 8
+(c) 10
+(d) n
+
+Ans: 
+topic: Polygons,  difficulty: easy   type: 
+
+
+
+

@@ -1,0 +1,111 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block title %} Login {% endblock %}
+{% block css %}
+<style type="text/css">
+    .footer {
+      position: fixed;
+      z-index: 100;
+      bottom: 0;
+      width: 100%;
+      background-color: #61615F;
+      color: white;
+      text-align: center;
+    }
+</style>
+{% endblock %}
+
+{% block nav %}
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top">
+    <a class="navbar-brand" href="{% url 'yaksh:index' %}">
+        <img src="{% static 'yaksh/images/yaksh_banner.png' %}" alt="YAKSH">
+    </a>
+    <a class="navbar-brand ml-auto" href="https://github.com/sureshkvl/yaksh-test-answers/raw/master/userguide.pdf">
+        <i class="fa fa-file-pdf-o"></i>&nbsp;USER GUIDE
+    </a>
+</nav>
+{% endblock %}
+
+{% block content %}
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-6 col-md-offset-6">
+            <center>
+                <h3 style="background-color:powderblue; border-radius: 10px">
+                    <b>Free Online CBSE Test Platform  for School Students</b>
+                </h3>
+            </center>
+            <br>
+            <div class="card border-primary">
+                <div class="card-header">
+                    <h3>Log in to Your Account</h3>
+                </div>
+                <div class="card-body">
+                    <div class="form-group">
+                        <form action="" method="post">
+                        {% csrf_token %}
+
+                        <center>
+                            <table class="table table-borderless">
+                            {% if form.errors %}
+                                {% for field in form %}
+                                    {% for error in field.errors %}
+                                        <div class="alert alert-dismissible alert-danger">
+                                            <button type="button" class="close" data-dismiss="alert">
+                                                <i class="fa fa-close"></i>
+                                            </button>
+                                            <strong>{{ error|escape }}</strong>
+                                        </div>
+                                    {% endfor %}
+                                {% endfor %}
+                                {% for error in form.non_field_errors %}
+                                    <div class="alert alert-dismissible alert-danger">
+                                        <button type="button" class="close" data-dismiss="alert">
+                                            <i class="fa fa-close"></i>
+                                        </button>
+                                        <strong>{{ error|escape }}</strong>
+                                    </div>
+                                {% endfor %}
+                            {% endif %}
+                            {{form.username}}
+                            <br>
+                            {{form.password}}
+                            </table>
+                        </center>
+                        <div class="row justify-content-center">
+                            <button class="btn btn-lg btn-success btn-block" type="submit" id="login-btn">
+                                <i class="fa fa-sign-in"></i>&nbsp;Login
+                            </button>
+                            <a href="{% url 'yaksh:register' %}" class="btn btn-lg btn-primary btn-block" id="signup-btn">
+                                <i class="fa fa-user-plus"></i>&nbsp;NEW USER? SIGN UP
+                            </a>
+                            <a class="btn btn-lg btn-primary btn-block" href="{% url 'password_reset' %}" id="forgot-btn">
+                                Forgot Password?
+                            </a>
+                        </div>
+                        <hr>
+                        </form>
+                        </br>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<footer class="footer">
+      <div class="row">
+        <div class="col-md-4">
+          Developed by FOSSEE, IIT Bombay
+        </div>
+        <div class="col-md-4">
+          <i class="fa fa-envelope"></i>&nbsp;pythonsupport@fossee.in
+        </div>
+        <div class="col-md-4">
+            <a href="https://github.com/FOSSEE/online_test" style="color: white;">
+                <i class="fa fa-github"></i>&nbsp;Github Link
+            </a>
+        </div>
+      </div>
+</footer>
+{% endblock content %}
