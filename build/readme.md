@@ -92,3 +92,8 @@ default users (admin/admin, teacher/teacher, student/student) are created
 
 http://localhost:8080
 
+
+
+
+
+sudo docker cp login.html  yaksh_web_1:/code/yaksh/templates/yaksh/.
